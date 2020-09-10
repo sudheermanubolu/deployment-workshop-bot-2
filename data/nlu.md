@@ -50,6 +50,7 @@
 - extremely sad
 - so sad
 - need a coffee!
+- need a coffee
 
 ## intent:bot_challenge
 - are you a bot?
